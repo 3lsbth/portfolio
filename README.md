@@ -7,3 +7,8 @@
 
 ### Education
 
+### Code repository
+
+### How to run tests
+
+### CI/CD
