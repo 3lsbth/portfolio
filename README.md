@@ -1,7 +1,7 @@
 # QA Test Automation Portfolio
 
 ### Technology
-- Tpescript, Git, CI/CD, Playwright
+- Typescript, Git, CI/CD, Playwright
 
 ### Work Experience
 
