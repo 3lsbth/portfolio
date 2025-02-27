@@ -10,11 +10,11 @@
 #### QA Test Analyst (january 2023 - december 2023)
 - Testing bank mobile apps for Partners Financial Services, worked with JIRA, Confluence, TestRail and Exponea (Bloomreach) and Postman, testing and reporting bugs (FE/BE), writing test scenarios and planning test sets, testing regression and E2E tests
 
-####
+#### QA Test Analyst (september 2022 - december 2022)
 
 
 ### Education
-- Czech University of Life Sciences Prague (Bachelor's degree in Guidance in Vocational Education
+- Czech University of Life Sciences Prague (Bachelor's degree in Guidance in Vocational Education)
 
 ### Code repository
 
